@@ -1,0 +1,29 @@
+_repo: School-life-at-Winchester-College-b-or-the-reminiscences-of-a-Winchester-junior-under-the-old__72944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mansfield, Robert Blachford
+    gutenberg_agent_id: '56868'
+    url: http://www.gutenberg.org/2009/agents/56868
+description: ''
+gutenberg_issued: '2024-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72944'
+language: en
+pgterms:marc904: https://archive.org/details/schoollifeatwinc00mansrich
+pgterms:marc905: 20220411204333mansfield
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bDavid Nutt, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'School-life at Winchester College : $b or, the reminiscences of a Winchester
+  junior under the old régime, 1835-40.'
+url: http://www.gutenberg.org/ebooks/72944
