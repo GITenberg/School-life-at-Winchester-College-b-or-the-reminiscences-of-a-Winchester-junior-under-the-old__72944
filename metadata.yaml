@@ -1,11 +1,16 @@
 _repo: School-life-at-Winchester-College-b-or-the-reminiscences-of-a-Winchester-junior-under-the-old__72944
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72944-h/images/cover.jpg
 creator:
   author:
     agent_name: Mansfield, Robert Blachford
     gutenberg_agent_id: '56868'
     url: http://www.gutenberg.org/2009/agents/56868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72944#School-life-at-Winchester-College-b-or-the-reminiscences-of-a-Winchester-junior-under-the-old_
 gutenberg_issued: '2024-02-12'
 gutenberg_type: Text
 identifiers:
